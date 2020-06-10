@@ -1,2 +1,4 @@
-# starie
-Social Network with Flutter and Firebase
+# Starie
+An open source social network with Flutter and Firebase.
+
+starie.onforus.com
